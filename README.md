@@ -1,4 +1,4 @@
-# Welcome! This is a collection of my mathematical modeling reports and visualizations for Bioinformatics analysis built using R. 
+# Welcome! This is a collection of my Biomedical Statistics projects reports and visualizations built using R. 
 ## Source code for each project is under 'source files' and the clean, readable HTML files are under 'docs'
 
 ## Topics include: non-linear and linear regression analysis, principal component analysis, Support Vector Machines (SVM), Neural Networks (NN), Decision Trees, and Bayesian networks.
