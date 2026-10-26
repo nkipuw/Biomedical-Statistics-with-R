@@ -4,7 +4,7 @@
 ## Topics include: non-linear and linear regression analysis, principal component analysis, Support Vector Machines (SVM), Neural Networks (NN), Decision Trees, and Bayesian networks.
 ## Data for analysis include a broad range of biological applications, such as expression analysis, proteomics, high-throughput assays and imaging.
 
-# TLDR; Go straight to my portfolio [here](https://nkipuw.github.io/Mathematical-Modeling-for-Bioinformatics/)
+# TLDR; Go straight to my portfolio [here](https://nkipuw.github.io/Biomedical-Statistics-with-R/)
 
 # Projects:
 ## 1. Understanding R Functions and Code: Develop basic working experience with understanding and troubleshooting R code. Practice R features for accessing data, computing data summaries and creating data plots.
